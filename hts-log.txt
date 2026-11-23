@@ -1,0 +1,16 @@
+HTTrack3.51-0 launched on Mon, 23 Nov 2026 22:13:27 at https://shuguang.rnglg2.top/ +*.png +*.gif +*.jpg +*.jpeg +*.webp +*.avif +*.svg +*.css +*.js +*.woff2 +*.woff +*.ttf +*.otf +*.mp4 +*.webm -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack/3.x; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "zh, en, *" https://shuguang.rnglg2.top/ -O1 "C:\My Websites\曙光" +*.png +*.gif +*.jpg +*.jpeg +*.webp +*.avif +*.svg +*.css +*.js +*.woff2 +*.woff +*.ttf +*.otf +*.mp4 +*.webm -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:18:15	Error: 	"Not Found" (404) at link https://shuguang.rnglg2.top/song-400.1.cb69804b0bfc.woff2 (from https://shuguang.rnglg2.top/)
+22:18:15	Error: 	"Not Found" (404) at link https://shuguang.rnglg2.top/song-600.0.3695dfb9390f.woff2 (from https://shuguang.rnglg2.top/)
+22:18:15	Error: 	"Not Found" (404) at link https://shuguang.rnglg2.top/song-900.0.2c4b46ec48da.woff2 (from https://shuguang.rnglg2.top/)
+22:18:15	Error: 	"Not Found" (404) at link https://shuguang.rnglg2.top/kai-400.0.2d5870d90ec6.woff2 (from https://shuguang.rnglg2.top/)
+22:18:23	Error: 	"Not Found" (404) at link https://shuguang.rnglg2.top/异能•B.G.M (from https://shuguang.rnglg2.top/data/catalog-index.js)
+
+HTTrack Website Copier/3.51-0 mirror complete in 5 minutes 16 seconds : 361 links scanned, 355 files written (42170720 bytes overall) [38526753 bytes received at 121920 bytes/sec], 5504335 bytes transferred using HTTP compression in 17 files, ratio 29%, 32.8 requests per connection
+(5 errors, 0 warnings, 0 messages)
